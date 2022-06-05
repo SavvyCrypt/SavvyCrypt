@@ -3,7 +3,7 @@ SavvyCrypt/SavvyCrypt is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hello, welcome to my github profile. I am @SavvyCrypt.
-- 👀 I am interested in crypto currency, decentralization, and freedom.  Decentralized finance offers true freedom and I plan on contributing to this space as much as I can.  I have a good amount of experience in the IT industry, but I am new to the blockchain space.
+- 👀 I am interested in crypto currency, decentralization, and freedom.  Decentralized finance offers true freedom and I plan on contributing to this space as much as I can.  I have experience in the IT industry, but I am new to the blockchain space.
 
 - 🌱 I am currently learning RUST and smart contract concepts.
 
